@@ -1,9 +1,4 @@
-<p align="center">
-  <h1 align="center"> Hi 👋, I'm <a href="https://sika.io">Ondrej Sika</a> from <a href="https://sikalabs.com">SikaLabs</a></h2>
-  <h4 align="center">Software, DevOps & SRE Engineer, Architect, Consultant and Lecturer 🇬🇧🇩🇪🇨🇿</h4>
-</p>
-
-### Check out my popular courses 🚀💻
+# Check out my popular courses 🚀💻
 
 [![Docker](https://img.shields.io/badge/-Školení%20Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://ondrej-sika.cz/skoleni/docker)
 [![Kubernetes](https://img.shields.io/badge/-Školení%20Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://ondrej-sika.cz/skoleni/kubernetes)
